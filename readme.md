@@ -1,6 +1,6 @@
 # A MERN Note Taking APP
 
-# Technology Used: ReactJs, NodeJs, MongoDB, ExpressJs, HTML, CSS
+Technology Used: `ReactJs`, `NodeJs`, `MongoDB`, `ExpressJs`, `HTML`, `CSS`
 
 ## Usage
 
