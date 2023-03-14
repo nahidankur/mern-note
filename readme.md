@@ -1,8 +1,8 @@
-# A MERN CRUD APP
+# A MERN Note Taking APP
+
+# Technology Used: ReactJs, NodeJs, MongoDB, ExpressJs, HTML, CSS
 
 ## Usage
-
-Rename the .envexample to .env and add your MONGO_URI
 
 ### Install dependencies
 
