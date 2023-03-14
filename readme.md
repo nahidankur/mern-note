@@ -2,6 +2,8 @@
 
 Technology Used: `ReactJs`, `NodeJs`, `MongoDB`, `ExpressJs`, `HTML`, `CSS`
 
+# [Live Preview Here](https://wild-blue-tadpole-boot.cyclic.app)
+
 ## Usage
 
 ### Install dependencies
