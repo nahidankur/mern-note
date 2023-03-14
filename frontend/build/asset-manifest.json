@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88ecc125.css",
+    "main.js": "/static/js/main.768500eb.js",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.b59f6a636397975c5409.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.5981b450a68d5134225b.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.e2abc8f5e9a67ea669ea.ttf",
+    "static/media/Material-Design-Iconic-Font.ttf": "/static/media/Material-Design-Iconic-Font.5a588d6a8bfc41d69f88.ttf",
+    "static/media/Material-Design-Iconic-Font.woff": "/static/media/Material-Design-Iconic-Font.bd9b02bf1131d90bfe22.woff",
+    "static/media/Material-Design-Iconic-Font.woff2": "/static/media/Material-Design-Iconic-Font.6ee80f4bf5d3f92f3bf7.woff2",
+    "index.html": "/index.html",
+    "main.88ecc125.css.map": "/static/css/main.88ecc125.css.map",
+    "main.768500eb.js.map": "/static/js/main.768500eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ecc125.css",
+    "static/js/main.768500eb.js"
+  ]
+}
